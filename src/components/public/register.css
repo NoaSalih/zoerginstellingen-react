@@ -1,0 +1,121 @@
+.FormText{
+    width: 243px;
+    height: 68px;
+
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 34px;
+
+    color: rgba(0, 0, 0, 0.77);
+}
+.FormControl{
+    width: 90%;
+    padding: 1em;
+    line-height: 1.4;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+}
+.columnLeft{
+    float: left;
+    width: 50%;
+}
+.columnRight{
+    float: right;
+    width: 50%;
+}
+.row{
+    margin: 30px 20px;
+}
+
+.TextAreaField{
+    clear: both;
+}
+.addNewPatientBtn{
+    margin-top: 20px;
+    margin-left: 17px;
+    box-sizing: border-box;
+    width: 96%;
+    height: 50px;
+    background: #081D66;
+    border: 1px solid rgba(255, 255, 255, 0.95);
+    border-radius: 11px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+.columnLeft > .mb-3 ,.columnRight > .mb-3 {
+    margin-bottom: 20px;
+}
+.errorMsgRegistration{
+    font-family: 'Open Sans', serif;
+    font-style:  normal ;
+    font-weight:  400 ;
+    font-size:  14px ;
+    line-height:  31px ;
+    color:  #000000 ;
+    margin: 20px 10px;
+
+    display: flex;
+    justify-content: center;
+
+}
+.signUpTextRegistration {
+    height:  31px ;
+    font-family: 'Open Sans', serif;
+    font-style:  normal ;
+    font-weight:  400 ;
+    font-size:  23px ;
+    line-height:  31px ;
+    color:  #000000 ;
+    text-align: center;
+}
+
+.registrationWelcome{
+    text-align: center;
+}
+.registrationWelcome> h3{
+
+    font-family: 'Open Sans', serif;
+    font-style: Normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+    margin: 0;
+}
+.registrationWelcome> p{
+
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+    margin: 0;
+}
+.registrationWelcome span{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.LinkTag{
+    text-decoration: none;
+    color : black;
+    font-weight: bolder;
+
+}
+.addNewPatientBtnRegistration{
+    margin-top: 20px;
+    box-sizing: border-box;
+    width: 93vw;
+    height: 50px;
+    background: #081D66;
+    border: 1px solid rgba(255, 255, 255, 0.95);
+    border-radius: 11px;
+    color: white;
+    font-size: 14px;
+
+}

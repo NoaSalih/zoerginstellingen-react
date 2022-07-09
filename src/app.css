@@ -1,0 +1,16 @@
+
+html * {
+    font-family: Cambria, serif;
+    font-size: large;
+}
+
+.background{
+    background-image: url("/src/assets/img/background-blured.jpg");
+    background-size: cover;
+}
+
+.outer-container{
+    display: flex;
+    width: auto;
+    justify-content: center;
+}

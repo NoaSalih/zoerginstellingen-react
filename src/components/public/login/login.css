@@ -1,0 +1,126 @@
+.containerLogin{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    padding: 20px;
+}
+.welcomeLogin{
+    width: 583px;
+    height: 98px;
+    font-family: 'Open Sans', serif;
+    font-style: Normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    color: #081D66;
+}
+
+.welcomeTextLogin {
+    font-family: 'Open Sans', serif;
+    font-weight: bolder;
+    font-size: 25px;
+    color: #081D66;
+}
+
+.usernameTextLogin{
+
+    width: 128px;
+    height: 68px;
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+    color: #081D66;
+}
+
+.textFieldLogin {
+    box-sizing: border-box;
+    width: 450px;
+    height: 64px;
+    padding: 1em;
+    line-height: 1.4;
+    box-shadow: -10px 0 17px -6px rgba(0, 0, 0, 0.25);
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background: transparent;
+    font-weight: bold;
+
+}
+
+.passwordTextLogin {
+    width: 113px;
+    height: 68px;
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+    color: #081D66;
+
+}
+.passwordTextFieldLogin {
+    box-sizing: border-box;
+
+    width: 450px;
+    height: 64px;
+
+    padding: 1em;
+    line-height: 1.4;
+    box-shadow: -10px 0 17px -6px rgba(0, 0, 0, 0.25);
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background: transparent;
+    font-weight: bold;
+}
+.usernameTextLogin {
+    width:  128px ;
+    height:  68px ;
+    left:  94px ;
+    top:  308px ;
+    font-family: 'Open Sans', serif ;
+    font-style:  normal ;
+    font-weight:  400 ;
+    font-size:  25px ;
+    line-height:  34px ;
+    color:  #081D66 ;
+}
+.signInBtnLogin{
+    box-sizing:  border-box ;
+    width:  450px ;
+    height:  64px ;
+
+    background:  #081D66 ;
+    font-size:  20px;
+    padding: 1em;
+    line-height: 1.4;
+    border: 1px solid #e5e5e5;
+    border-radius: 20px;
+    color : white
+}
+.errorMsgLogin{
+    font-family: 'Open Sans', serif;
+    font-style:  normal ;
+    font-weight:  400 ;
+    font-size:  14px ;
+    line-height:  31px ;
+    color:  #000000 ;
+    margin: 20px 0;
+
+}
+.signUpTextLogin {
+    font-family: 'Open Sans', serif;
+    font-weight:  800 ;
+    color:  #081D66 ;
+}
+.imgLogin {
+    border-radius: 20%;
+    box-shadow: 10px 10px 50px  rgba(167,216,222,10);
+}
+
+.LinkSignup {
+    color: #081D66;
+    font-size: larger;
+}

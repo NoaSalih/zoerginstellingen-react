@@ -1,0 +1,43 @@
+.left-column {
+    width: 634px;
+    height: 104px;
+    left: 86px;
+    top: 402px;
+    line-height: 52px;
+}
+
+.containerWelcome {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.profile-btn {
+    box-sizing: border-box;
+    text-align: center;
+    width: 382px;
+    margin-left: 20%;
+    height: 66px;
+    margin-top: 20%;
+    background: #081D66;
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 50px;
+    color: white;
+    font-size: 20px;
+
+
+}
+
+.right-column {
+    border-radius: 20%;
+    box-shadow: 10px 10px 50px rgba(167, 216, 222, 10);
+}
+
+.titel {
+    text-align: center;
+    font-size: 40px;
+    color: #081D66;
+
+}
+

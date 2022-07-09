@@ -1,0 +1,63 @@
+.container{
+    margin: 0 20px;
+}
+.card-header{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+
+
+}
+.textSpan{
+
+    font-weight: 700;
+    color: #081D66;
+    padding: 30px;
+    position: relative;
+}
+.btnCancel{
+    width: 100px;
+    height: 40px;
+    background: #081D66;
+    border: 1px solid rgba(255, 255, 255, 0.95);
+    border-radius: 7px;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.btnCancel .text-white {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.labelText{
+    font-family: 'Open Sans', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 34px;
+    color: rgba(0, 0, 0, 0.77);
+}
+.formData{
+    margin: 20px 0;
+
+}
+.form-control-edit-profile{
+    width: 97%;
+    padding: 1em;
+    line-height: 1.4;
+    box-shadow: -10px 0 17px -6px rgba(0, 0, 0, 0.25);
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background: transparent;
+    font-weight: bold;
+
+}
+.updateBtn{
+    width: 20vw;
+    height: 40px;
+    background: #081D66;
+    border: 1px solid rgba(255, 255, 255, 0.95);
+    border-radius: 11px;
+    color : white;
+}

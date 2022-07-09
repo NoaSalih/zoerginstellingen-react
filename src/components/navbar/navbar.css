@@ -1,0 +1,59 @@
+.navbar-ul{
+    box-sizing: border-box;
+    height: 80px;
+    top: 24px;
+    background: aliceblue;
+    box-shadow: 4px 9px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 70px;
+    position: relative;
+}
+
+
+.link-tag{
+    text-decoration: none;
+    color : #081D66;
+    margin-right: 30px;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+ul{
+    text-decoration: none;
+}
+ul > li {
+    list-style: none;
+    display: inline;
+}
+.navbar-nav{
+    color : #081D66;
+}
+.iconItem{
+    color: royalblue;
+}
+
+.logoutBtn {
+    width: 168px;
+    height: 54px;
+    background: #081D66;
+    border-radius: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.lock-item{
+    margin-left: 20px;
+    color: white;
+}
+.signOutBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white
+
+}
